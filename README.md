@@ -23,7 +23,7 @@ I am available to work on a freelance basis. Find my contact info below:
 [LinkedIn](https://www.linkedin.com/in/bansalvishesh/) •
 [E-Mail](mailto:vishesh.bansal@gmail.com)
 
-![Vishesh's github stats](https://github-readme-stats.vercel.app/api?username=VisheshBansal&show_icons=true&count_private=true&theme=chartreuse-dark&icon_color=#00ffff)
+![Vishesh's github stats](https://github-readme-stats.vercel.app/api?username=VisheshBansal&show_icons=true&count_private=true&theme=chartreuse-dark&icon_color=00ffff)
 
 A Bit More about me: 
 - 😄 Pronouns: He/Him/His
