@@ -21,14 +21,14 @@ I am available to work on a freelance basis. Find my contact info below:
 [Instagram](https://www.instagram.com/thevisheshbansal/) •
 [Twitter](https://twitter.com/VisheshBansal17) •
 [LinkedIn](https://www.linkedin.com/in/bansalvishesh/) •
-[Mail](mailto:vishesh.bansal@gmail.com)
+[E-Mail](mailto:vishesh.bansal@gmail.com)
 
-![Vishesh's github stats](https://github-readme-stats.vercel.app/api?username=VisheshBansal&show_icons=true&count_private=true&theme=dark)
+![Vishesh's github stats](https://github-readme-stats.vercel.app/api?username=VisheshBansal&show_icons=true&count_private=true&theme=chartreuse-dark&icon_color=#00ffff)
 
 A Bit More about me: 
 - 😄 Pronouns: He/Him/His
 - 🌱 I’m currently learning Python, Django Framework and trying out Web Development.
 - 🔭 I’m currently working as a freelancer.
 - 💬 Ask me about my views on the future of Artificial Intelligence and Cyber Security. 
-- ⚡ Random Fact: I never understood what my music taste is, but everyone I have met vibes with it!    
+- ⚡ Random Fact: I never understood what my music taste is, but everyone I have met vibe with it!    
 - 👯 I’m looking to collaborate on small projects on AI, ML and Full Stack Web Development
