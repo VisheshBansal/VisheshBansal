@@ -6,7 +6,7 @@
 I'm a Freshman Student at Vellore Institute of Technology, Vellore. 
 <br/>
 <img src="assets/code.gif" align="center" />
-
+<br />
 ## &#x1f4c8; GitHub Stats
 ![Vishesh's github stats](https://github-readme-stats.vercel.app/api?username=VisheshBansal&show_icons=true&count_private=true&theme=chartreuse-dark&icon_color=00ffff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VisheshBansal&layout=compact&theme=chartreuse-dark&icon_color=00ffff)
@@ -19,20 +19,19 @@ I'm a Freshman Student at Vellore Institute of Technology, Vellore.
 - ⚡ Random Fact: I never understood what my music taste is, but everyone I have met vibe with it!    
 - 👯 I’m looking to collaborate on small projects on AI, ML and Full Stack Web Development
 ### _Random joke for you_ 😉
-<img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes" />
+<img src="https://readme-jokes.vercel.app/api" align="center" alt="README Jokes" />
 
-**Learning and working with:** <br />
+**Learning and working with:** <br /><br />
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
-<a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
+<a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a><br/><br/>
 <div align="center">
-[![HitCount](http://hits.dwyl.com/VisheshBansal/{project}.svg)](http://hits.dwyl.com/VisheshBansal/{project})
-</div>
-<div align="center">
+<img src="http://hits.dwyl.com/VisheshBansal/{project}.svg" align="center" />
+
 <br />
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /><em><b>I love connecting with different people</b> so if you want to say <b>Hi!, I'll be happy to meet you more!</b> :)</em>
 <h3> Find me on</h3>
@@ -40,7 +39,6 @@ I'm a Freshman Student at Vellore Institute of Technology, Vellore.
 <a href="https://twitter.com/VisheshBansal17" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/bansalvishesh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/thevisheshbansal" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</a>
 </div>
 
 
