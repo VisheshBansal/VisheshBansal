@@ -1,11 +1,10 @@
 <div align="center">
 <h2>𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! , I'm Vishesh! <img src="assets/wave.gif" width="30px" /></h2>
-<img src="assets/git_intro.gif" align="center" />
+<img src="assets/git_intro.gif" />
 </div>
-<br/>
+
 I'm a Freshman Student at Vellore Institute of Technology, Vellore. 
-<img src="assets/code.gif" align="center" />
-<br/>
+<img src="assets/code.gif" />
 ## &#x1f4c8; GitHub Stats
 ![Vishesh's github stats](https://github-readme-stats.vercel.app/api?username=VisheshBansal&show_icons=true&count_private=true&theme=chartreuse-dark&icon_color=00ffff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VisheshBansal&layout=compact&theme=chartreuse-dark&icon_color=00ffff)
@@ -18,7 +17,7 @@ I'm a Freshman Student at Vellore Institute of Technology, Vellore.
 - ⚡ Random Fact: I never understood what my music taste is, but everyone I have met vibe with it!    
 - 👯 I’m looking to collaborate on small projects on AI, ML and Full Stack Web Development
 ### _Random joke for you_ 😉
-<img src="https://readme-jokes.vercel.app/api" align="center" alt="README Jokes" />
+<img src="https://readme-jokes.vercel.app/api" alt="README Jokes" />
 
 **Learning and working with:** <br/><br/>
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
