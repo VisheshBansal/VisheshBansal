@@ -6,7 +6,7 @@
 I'm a Freshman Student at Vellore Institute of Technology, Vellore. 
 <br/>
 <img src="assets/code.gif" align="center" />
-<br />
+<br/>
 ## &#x1f4c8; GitHub Stats
 ![Vishesh's github stats](https://github-readme-stats.vercel.app/api?username=VisheshBansal&show_icons=true&count_private=true&theme=chartreuse-dark&icon_color=00ffff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VisheshBansal&layout=compact&theme=chartreuse-dark&icon_color=00ffff)
@@ -21,7 +21,7 @@ I'm a Freshman Student at Vellore Institute of Technology, Vellore.
 ### _Random joke for you_ 😉
 <img src="https://readme-jokes.vercel.app/api" align="center" alt="README Jokes" />
 
-**Learning and working with:** <br /><br />
+**Learning and working with:** <br/><br/>
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
