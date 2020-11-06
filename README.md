@@ -1,10 +1,11 @@
 <div align="center">
-<h2>𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! , I'm Vishesh! <img src="assets/wave.gif" width="30px"></h2>
-<img src="assets/git_intro.gif" align="center">
+<h2>𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! , I'm Vishesh! <img src="assets/wave.gif" width="30px" /></h2>
+<img src="assets/git_intro.gif" align="center" />
 </div>
 <br/>
 I'm a Freshman Student at Vellore Institute of Technology, Vellore. 
 <img src="assets/code.gif" align="center" />
+<br/>
 ## &#x1f4c8; GitHub Stats
 ![Vishesh's github stats](https://github-readme-stats.vercel.app/api?username=VisheshBansal&show_icons=true&count_private=true&theme=chartreuse-dark&icon_color=00ffff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VisheshBansal&layout=compact&theme=chartreuse-dark&icon_color=00ffff)
