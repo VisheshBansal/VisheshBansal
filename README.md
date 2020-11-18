@@ -11,7 +11,7 @@ I'm a Freshman Student at Vellore Institute of Technology, Vellore.
 <img src="https://media.giphy.com/media/JRDDRW6ZluTuDhSZZJ/giphy.gif" width=50 />&emsp;
 **A Bit More about me:** 
 - 😄 Pronouns: He/Him/His
-- 🌱 I’m currently learning Python, Django Framework and trying out Web Development.
+- 🌱 I’m currently learning Python,ReactJs, Django Framework and trying out Full Stack Web Development.
 - 🔭 I’m currently working as a freelancer.
 - 💬 Ask me about my views on the future of Artificial Intelligence and Cyber Security. 
 - ⚡ Random Fact: I never understood what my music taste is, but everyone I have met vibe with it!    
