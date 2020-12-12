@@ -24,13 +24,14 @@ I'm a Freshman Student at Vellore Institute of Technology, Vellore.
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" title="HTML CSS"><img src="icons/htmlcss.png" /></a>
-<a href="https://getbootstrap.com/" title="GitHub"><img src="icons/bootstrap.png" /></a>
+<a href="https://getbootstrap.com/" title="Bootstrap"><img src="icons/bootstrap.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
+<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a><br/><br/>
 <div align="center">
-<img src="http://hits.dwyl.com/VisheshBansal/{project}.svg" align="center" />
+<img src="https://views.whatilearened.today/views/github/VisheshBansal.svg" align="center" />
 
 <br />
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /><em><b>I love connecting with different people</b> so if you want to say <b>Hi!, I'll be happy to meet you more!</b> :)</em>
