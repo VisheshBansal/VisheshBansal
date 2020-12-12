@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
 <h2>𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! , I'm Vishesh! <img src="assets/wave.gif" width="30px" /></h2>
 <img src="assets/git_intro.gif" />
@@ -11,43 +10,12 @@ I'm a Freshman Student at Vellore Institute of Technology, Vellore.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VisheshBansal&layout=compact&theme=chartreuse-dark&icon_color=00ffff)
 <img src="https://media.giphy.com/media/JRDDRW6ZluTuDhSZZJ/giphy.gif" width=50 />&emsp;
 **A Bit More about me:** 
-=======
-### Hey there, I'm Vishesh! 👋
-
-<!--
-**VisheshBansal/VisheshBansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
-
-I'm a Freshman Student at Vellore Institute of Technology, Vellore. 
-I am available to work on a freelance basis. Find my contact info below: 
-
-[Website](https://www.visheshbansal.ml) •
-[Instagram](https://www.instagram.com/thevisheshbansal/) •
-[Twitter](https://twitter.com/VisheshBansal17) •
-[LinkedIn](https://www.linkedin.com/in/bansalvishesh/) •
-[E-Mail](mailto:vishesh.bansal@gmail.com)
-
-![Vishesh's github stats](https://github-readme-stats.vercel.app/api?username=VisheshBansal&show_icons=true&count_private=true&theme=chartreuse-dark&icon_color=00ffff)
-
-A Bit More about me: 
->>>>>>> parent of 8b91319... Updated README
 - 😄 Pronouns: He/Him/His
 - 🌱 I’m currently learning Python, Django Framework and trying out Web Development.
 - 🔭 I’m currently working as a freelancer.
 - 💬 Ask me about my views on the future of Artificial Intelligence and Cyber Security. 
 - ⚡ Random Fact: I never understood what my music taste is, but everyone I have met vibe with it!    
 - 👯 I’m looking to collaborate on small projects on AI, ML and Full Stack Web Development
-<<<<<<< HEAD
 ### _Random joke for you_ 😉
 <img src="https://readme-jokes.vercel.app/api" alt="README Jokes" />
 
@@ -58,12 +26,12 @@ A Bit More about me:
 <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" title="HTML CSS"><img src="icons/htmlcss.png" /></a>
 <a href="https://getbootstrap.com/" title="Bootstrap"><img src="icons/bootstrap.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
+<a href="https://reactjs.org/" title="ReactJs"><img src="icons/react.png" /></a><br/><br/>
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a><br/><br/>
 <div align="center">
-<img src="https://views.whatilearened.today/views/github/VisheshBansal.svg" align="center" />
+<img src="https://views.whatilearened.today/views/github/VisheshBansal/VisheshBansal.svg" align="center" />
 
 <br />
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /><em><b>I love connecting with different people</b> so if you want to say <b>Hi!, I'll be happy to meet you more!</b> :)</em>
@@ -75,5 +43,3 @@ A Bit More about me:
 </div>
 
 
-=======
->>>>>>> parent of 8b91319... Updated README
