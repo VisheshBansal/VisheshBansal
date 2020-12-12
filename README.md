@@ -26,7 +26,7 @@ I'm a Freshman Student at Vellore Institute of Technology, Vellore.
 <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" title="HTML CSS"><img src="icons/htmlcss.png" /></a>
 <a href="https://getbootstrap.com/" title="Bootstrap"><img src="icons/bootstrap.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://reactjs.org/" title="ReactJs"><img src="icons/react.png" /></a><br/><br/>
+<a href="https://reactjs.org/" title="ReactJs"><img src="icons/react.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a><br/><br/>
