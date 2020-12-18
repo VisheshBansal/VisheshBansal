@@ -31,7 +31,7 @@ I'm a Freshman Student at Vellore Institute of Technology, Vellore.
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a><br/><br/>
 <div align="center">
-<img src="https://views.whatilearened.today/views/github/VisheshBansal/VisheshBansal.svg" align="center" />
+<img src="https://gpvc.arturio.dev/VisheshBansal" align="center" />
 
 <br />
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /><em><b>I love connecting with different people</b> so if you want to say <b>Hi!, I'll be happy to meet you more!</b> :)</em>
