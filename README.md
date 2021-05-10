@@ -23,6 +23,8 @@ I'm a Freshman Student at Vellore Institute of Technology, Vellore.
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github-dark.png" /></a>
+<a href="https://opencv.org" title="OpenCV"><img src="icons/opencv.png" height="32px" /></a>
+<a href="https://tensorflow.org" title="Tensorflow"><img src="icons/tensorflow.png" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" title="HTML CSS"><img src="icons/htmlcss.png" /></a>
 <a href="https://getbootstrap.com/" title="Bootstrap"><img src="icons/bootstrap.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
