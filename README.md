@@ -27,7 +27,9 @@ I'm a Freshman Student at Vellore Institute of Technology, Vellore.
 <a href="https://getbootstrap.com/" title="Bootstrap"><img src="icons/bootstrap.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://reactjs.org/" title="ReactJs"><img src="icons/react.png" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
+<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
+<a href="https://aws.amazon.com/" title="AWS"><img src="icons/aws.png" /></a>
+<a href="https://www.heroku.com/" title="Heroku"><img src="icons/heroku.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a><br/><br/>
 <div align="center">
@@ -39,7 +41,6 @@ I'm a Freshman Student at Vellore Institute of Technology, Vellore.
 <a href="https://github.com/VisheshBansal" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://twitter.com/VisheshBansal17" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/bansalvishesh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/thevisheshbansal" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://visheshbansal.ml" target="_blank"><img alt="Website" src="https://img.shields.io/badge/-Website-%FF69B4?style=for-the-badge" /></a>
+<a href="https://instagram.com/thevisheshbansal" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=cd486b" /></a>
 </div>
-
-
