@@ -8,6 +8,7 @@ I'm a Freshman Student at Vellore Institute of Technology, Vellore.
 ## &#x1f4c8; GitHub Stats
 ![Vishesh's github stats](https://github-readme-stats.vercel.app/api?username=VisheshBansal&show_icons=true&count_private=true&theme=chartreuse-dark&icon_color=00ffff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VisheshBansal&layout=compact&theme=chartreuse-dark&icon_color=00ffff)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VisheshBansal&theme=chartreuse-dark)
 <img src="https://media.giphy.com/media/JRDDRW6ZluTuDhSZZJ/giphy.gif" width=50 />&emsp;
 **A Bit More about me:** 
 - 😄 Pronouns: He/Him/His
