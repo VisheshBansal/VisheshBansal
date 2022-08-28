@@ -3,7 +3,7 @@
 <img src="assets/git_intro.gif" />
 </div>
 
-I'm a Sophomore at Vellore Institute of Technology, Vellore. 
+I'm a Pre-Final at Vellore Institute of Technology, Vellore. 
 <img src="assets/code.gif" />
 ## &#x1f4c8; GitHub Stats
 ![Vishesh's github stats](https://github-readme-stats.vercel.app/api?username=VisheshBansal&show_icons=true&count_private=true&theme=chartreuse-dark&icon_color=00ffff)
@@ -13,11 +13,9 @@ I'm a Sophomore at Vellore Institute of Technology, Vellore.
 <img src="https://media.giphy.com/media/JRDDRW6ZluTuDhSZZJ/giphy.gif" width=50 />&emsp;
 **A Bit More about me:** 
 - 😄 Pronouns: He/Him/His
-- 🌱 I’m currently learning Web Development.
-- 🔭 I’m currently working as a freelancer.
 - 💬 Ask me about my views on the future of Artificial Intelligence and Cyber Security. 
 - ⚡ Random Fact: I never understood what my music taste is, but everyone I have met vibe with it!    
-- 👯 I’m looking to collaborate on small projects on AI, ML and Full Stack Web Development
+- 👯 I’m looking to collaborate on small projects on Cybersecurity
 ### _Random joke for you_ 😉
 <img src="https://readme-jokes.vercel.app/api" alt="README Jokes" />
 
