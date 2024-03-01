@@ -3,7 +3,7 @@
 <img src="assets/git_intro.gif" />
 </div>
 
-I'm a Pre-Final year student at Vellore Institute of Technology(VIT), Vellore. 
+I'm a Final year student at Vellore Institute of Technology(VIT), Vellore. 
 <img src="assets/code.gif" />
 ## &#x1f4c8; GitHub Stats
 ![Vishesh's github stats](https://github-readme-stats.vercel.app/api?username=VisheshBansal&show_icons=true&count_private=true&theme=chartreuse-dark&icon_color=00ffff)
