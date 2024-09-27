@@ -3,7 +3,6 @@
 <img src="assets/git_intro.gif" />
 </div>
 
-<img src="assets/code.gif" />
 ## &#x1f4c8; GitHub Stats
 ![Vishesh's github stats](https://github-readme-stats.vercel.app/api?username=VisheshBansal&show_icons=true&count_private=true&theme=chartreuse-dark&icon_color=00ffff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VisheshBansal&layout=compact&theme=chartreuse-dark&icon_color=00ffff)
